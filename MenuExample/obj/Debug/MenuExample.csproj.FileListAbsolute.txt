@@ -1,0 +1,11 @@
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.Properties.Resources.resources
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.GenerateResource.cache
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\MenuExample\MenuExample\bin\Debug\MenuExample.exe.config
+C:\Users\egork\source\repos\MenuExample\MenuExample\bin\Debug\MenuExample.exe
+C:\Users\egork\source\repos\MenuExample\MenuExample\bin\Debug\MenuExample.pdb
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.Form1.resources
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.exe
+C:\Users\egork\source\repos\MenuExample\MenuExample\obj\Debug\MenuExample.pdb
